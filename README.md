@@ -2,7 +2,7 @@
 
 A tidy app to hide/reveal the desktop ~~icons~~. Make Desktop awesome and clutter free.
 
-<iframe width="560" height="315" src="https://github.com/ng28/Mask/blob/master/Resource/mask.mov" frameborder="0" allow="accelerometer; autoplay;"></iframe>
+<img src="/Resource/mask.gif" alt="Mask" title="Mask Preview" width="400" height="150"/> 
 
 ## Install App
 
