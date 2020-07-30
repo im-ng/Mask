@@ -1,9 +1,8 @@
 ## Mask 🖥️
 
-A tidy app to hide/reveal the desktop ~~icons~~. Make 🖥️ awesome and clutter free.
+A tidy app to hide/reveal the desktop ~~icons~~. Make Desktop awesome and clutter free.
 
-<iframe width="560" height="315"
-src="https://github.com/ng28/Mask/Resource/mask.mov" frameborder="0" allow="accelerometer; autoplay;"></iframe>
+<iframe width="560" height="315" src="https://github.com/ng28/Mask/blob/master/Resource/mask.mov" frameborder="0" allow="accelerometer; autoplay;"></iframe>
 
 ## Install App
 
